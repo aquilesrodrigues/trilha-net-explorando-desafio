@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution FileFormatVersion="12.00" VisualStudioVersion="17.0">
+  <Project Name="ProjetoEstacionamento" Path="Estacionamento/ProjetoEstacionamento.csproj" Guid="{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}" Type="CSharp" />
+  <Project Name="ProjetoHospedagem" Path="Hospedagem/ProjetoHospedagem.csproj" Guid="{86D85AC5-8B2B-5260-9219-A81743BD34C0}" Type="CSharp" />
+  <Configuration>
+    <ActiveConfiguration Debug="Debug|Any CPU" Release="Release|Any CPU" />
+    <Project Guid="{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}" Debug="Debug|Any CPU" Release="Release|Any CPU" />
+    <Project Guid="{86D85AC5-8B2B-5260-9219-A81743BD34C0}" Debug="Debug|Any CPU" Release="Release|Any CPU" />
+  </Configuration>
+  <Properties>
+    <Property Name="SolutionGuid">{3EC8CD14-72C9-4FD3-9A9E-D0ACAB187508}</Property>
+    <Property Name="HideSolutionNode">False</Property>
+  </Properties>
+</Solution>
